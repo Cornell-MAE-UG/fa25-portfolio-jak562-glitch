@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Actuator Rod Design
+description: The design is meant to withstand the most weight attached to the top of the rod.
+technologies: [Calculator]
 image: /assets/images/spaceship-design.jpg
 ---
 
