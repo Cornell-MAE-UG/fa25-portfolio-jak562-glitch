@@ -3,7 +3,7 @@ layout: project
 title: Actuator Rod Design
 description: The design is meant to withstand the most weight attached to the top of the rod.
 technologies: [Calculator]
-image: /assets/images/h5-design.jpg
+![System Design](/assets/images/h5-design.jpg)
 ---
 
 
