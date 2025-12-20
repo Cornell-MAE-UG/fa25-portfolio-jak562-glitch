@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../assets/images/mini-fridge.jpg" alt="Schematic" width="300" height="450">
   <p></p>
-  <em>Figure 1.</em> A mini-fridge.
+  <em>Figure 1.</em> A Danby DAR044A6BSLDBO mini-fridge.
 </p>
 <p align="center">
   <img src="../assets/images/Schematic-diagram-of-domestic-refrigerator-1972434544.jpg" alt="Schematic" width="300" height="450">
@@ -15,10 +15,11 @@
 
 <p align="center">
   <img width="676" height="412" alt="image" src="https://github.com/user-attachments/assets/e29e054d-3112-44ad-99f2-835633110d86" />
+  <em>Figure 3.</em> A control volume diagram of the closed loop cycle.
 </p>
 
 <p>
-  
+  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. 
 </p>
 
 <p>
