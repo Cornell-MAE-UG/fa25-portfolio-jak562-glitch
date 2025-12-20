@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <img width="637" height="395" alt="image" src="https://github.com/user-attachments/assets/42b5471a-ece7-4987-bb68-d89eb2be25a2" />
+  <img width="671" height="446" alt="image" src="https://github.com/user-attachments/assets/5bb459ee-f75d-488d-857c-a7297b8438d4" />
   <p></p>
   <em>Figure 3.</em> A control volume diagram of the closed loop cycle.
 </p>
 
 <p>
-  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. Based on the cycle diagram, the refrigerant is in the saturated vapor state before entering the 
+  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. It also operates between pressures of 1.1 MPa and 0.47 MPa and temperatures of 0° C and room temperature (22° C). Thus, state 2 is a saturated vapor at 22° C. The enthalpy of that state is 583.89 kJ/kg. Then, by modeling the compressor as a control volume, it becomes the case the enthalpy of state 3 is equivalent to 
 </p>
 
 <p>
