@@ -18,5 +18,9 @@
 </p>
 
 <p>
+  
+</p>
+
+<p>
   In order to improve the cycle efficiency, the refrigerator could be changed to have a dual cycle setup for which the two cycles are connected by a heat exchanger that replaced one of the cycle's evaporator and the other cycle's condenser. In this setup, each cycle would operate under a different temperature range. Thus, the refrigerants would be chosen based upon that information, and more specific choices of refrigerants can allow for lower minimum temperatures. In addition, by breaking up the cycle into two cycles, the compressors also do not need to do as much work as the single compressor in the original setup resulting in less work input. Thus, the efficiency can be improved. Lower pressures will also result in less mechanical stress which can improve the durability of the refrigerator.
 </p>
