@@ -14,12 +14,13 @@
 </p>
 
 <p align="center">
-  <img width="676" height="412" alt="image" src="https://github.com/user-attachments/assets/e29e054d-3112-44ad-99f2-835633110d86" />
+  <img width="637" height="395" alt="image" src="https://github.com/user-attachments/assets/42b5471a-ece7-4987-bb68-d89eb2be25a2" />
+  <p></p>
   <em>Figure 3.</em> A control volume diagram of the closed loop cycle.
 </p>
 
 <p>
-  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. 
+  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. Based on the cycle diagram, the refrigerant is in the saturated vapor state before entering the 
 </p>
 
 <p>
