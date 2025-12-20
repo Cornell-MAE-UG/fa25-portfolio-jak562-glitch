@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. It also operates between pressures of 1.1 MPa and 0.47 MPa and temperatures of 0° C and room temperature (22° C). Thus, state 2 is a saturated vapor at 22° C. The enthalpy of that state is 583.89 kJ/kg. Then, by modeling the compressor as a control volume, it becomes the case the enthalpy of state 3 is equivalent to 
+  The refrigerator shown above uses 90 W of power to its compressor, per its specifications sheet, and 22g of R600A refrigerant. It also operates between a maximum pressure of 1.1 MPa and a minimum pressure of 0.47 MPa and temperatures of 0° C and room temperature (22° C). State 2 is a saturated vapor at 0° C with an enthalpy of 554.34 kJ/kg. State 4 is a saturated liquid mixture at 22° C with an enthalpy of 251.70 kJ/kg. There are still many unknown values, but information about state 3 can be determined based on a few assumptions and some known information. The first major assumption is that the mass flow rate is 0.08 kg/s, done for the sake of computability. Now, using the control volume equation, the enthalpy at state 3 is equal to 1679.34 kJ/kg. Then, the amount of heat rejected in the condenser is 114.211 W. Lastly, the amount of heat inputted can be computed by assuming that the system as a whole represents a closed loop cycle. Thus, the change in internal energy for the whole cycle is 0. The heat input is 24.211 W. Hence, the efficiency of the refrigeration cycle is 1.27.
 </p>
 
 <p>
