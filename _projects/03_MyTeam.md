@@ -74,11 +74,11 @@ Since we have research on what SLFs are already attracted to, we can use what we
 
 ## Key risks / unknowns
 
-- SLFs might invade the lured regions and become a problem in a different industry/environment — why it matters: relocation could cause unintended ecological or agricultural damage; how we’ll test it: controlled pilot placements and environmental impact monitoring.
-- Requires more manpower to kill when they’re trapped and need to be extracted — why it matters: operational feasibility and labor costs; how we’ll test it: time-motion and labor requirement analysis during pilot.
-- Each lure/trap will need to be maintained since they can’t hold infinite amounts of SLFs — why it matters: scalability and maintenance burden; how we’ll test it: measure capture rates and servicing frequency.
-- Don’t know how attracted they will be to grapes vs. chemicals/decoy — why it matters: lure effectiveness; how we’ll test it: comparative field trials between vineyard areas and lure zones.
-- Catching other bugs/animals — why it matters: ecological harm and regulatory risk; how we’ll test it: species monitoring and selective attractant testing.
+- SLFs might invade the lured regions and become a problem in a different industry/environment
+- Requires more manpower to kill when they’re trapped and need to be extracted
+- Each lure/trap will need to be maintained since they can’t hold infinite amounts of SLFs
+- Don’t know how attracted they will be to grapes vs. chemicals/decoy
+- Catching other bugs/animals
 
 ---
 
@@ -98,9 +98,7 @@ Since we have research on what SLFs are already attracted to, we can use what we
 
 ---
 
-\newpage
-
-# Optional page 2 — References and/or one figure
+\\newpage
 
 ## References
 
