@@ -108,6 +108,4 @@ A speaker system which can be set up across a vineyard or around it. It should d
 
 - https://academic.oup.com/jee/article/115/6/2116/6777183  
 - https://academic.oup.com/ee/article/49/5/1049/5900068  
-- https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness#:~:text=%E2%80%9CThere%20were%20rumors%20that%20lanternflies,of%20%5Bthe%5D%20vibrations.%E2%80%9D  
-
-## Figure
+- https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness#:~:text=%E2%80%9CThere%20were%20rumors%20that%20lanternflies,of%20%5Bthe%5D%20vibrations.%E2%80%9D
