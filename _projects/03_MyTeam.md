@@ -55,7 +55,7 @@ A humidifier with a linkage design made to attach to any standardized telephone 
 ### Concept B: High Frequency Hotspot Fence
 
 **What it is:**  
-Wrap wires around a fence with decoy grape vines, placed not too close in vicinity to actual grapes. Attach wires to a speaker that plays a signal at exactly 60 Hz.
+This solution uses the opposite principle of the first proposal. The solution is to wrap wires around a fence with decoy grape vines, placed not too close in vicinity to actual grapes. Then, use a speaker that plays a signal at exactly 60 Hz to ward off the SLFs.
 
 **How it would be used:**
 - Construct a fence structure with wrapped wires.
@@ -63,15 +63,18 @@ Wrap wires around a fence with decoy grape vines, placed not too close in vicini
 - Play a 60 Hz signal through the wires to mimic electric frequencies from power lines.
 - Draw SLFs to the hotspot area for extermination.
 
-## Potential
-
+**Why it’s better than the status quo:**
 We have research on different things the SLFs are attracted to:
 - Electric Frequencies (60 Hz) from Power Lines  
 - Scent of Tree of Heaven, organic compounds diffused by the tree  
 - Tall, vertical, and dark, warm, or humming objects  
 - Drawn to their own "honeydew" (a sugary, sticky, liquid waste) excreted by other nymphs or adults already feeding  
 
-Since we have research on what SLFs are already attracted to, we can use what we know and work closely with the entomologists and research to implement them rather than starting from scratch.
+**End-of-semester proof-of-concept:**  
+A speaker system which can be set up across a vineyard or around it.
+
+**Minimum Viable Product:**  
+A speaker system which can be set up across a vineyard or around it. It should draw minimal power in order to be useable for extensive periods of time as well as it should be weather-resistant/weather-proof.
 
 ## Key risks / unknowns
 
