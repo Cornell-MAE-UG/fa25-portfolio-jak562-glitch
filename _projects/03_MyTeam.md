@@ -8,12 +8,9 @@
 
 ---
 
-## Problem statement (most important)
+## Problem statement
 
 Spotted lantern flies gather on grape vines, but they also gather on other plants that we don’t harvest, like the Tree of Heaven to which they are attracted by scent. How can we leverage this unique quality and lure spotted lantern flies to specific locations away from the vineyards to be exterminated?
-
-What challenge currently makes obvious solutions difficult to implement?  
-Spotted lantern flies (SLFs) are highly destructive and mobile. They are attracted to multiple environmental cues (scent, vertical structures, electric frequencies, honeydew), and we do not yet know how strongly they prioritize grapes over alternative lures. Additionally, solutions that span entire fields are costly, interfere with harvest operations, and are difficult to scale. We want to narrow the scope to designing a centralized lure-and-kill system that attracts SLFs away from vineyards to a controlled extermination site without disrupting daily vineyard operations.
 
 ---
 
@@ -21,15 +18,11 @@ Spotted lantern flies (SLFs) are highly destructive and mobile. They are attract
 
 Spotted lantern flies have been an invasive species and have destroyed hundreds of grape harvests. If we can limit their destruction, we can save farmers thousands of dollars and reduce food waste.
 
-Rather than creating a tool that spans an entire field, we can make an object that only needs to be placed at a certain location, making it material-wise cheaper and scalable. Because the lure would not span across the field itself, placements can be arranged such that they wouldn’t interfere with existing day-to-day field or harvest operations.
-
-This solution has potential to work for both adult and nymph spotted lanternflies.
-
 ---
 
 ## Proposed direction(s)
 
-### Concept A (primary): Decoy Lure on Tree
+### Concept A: Decoy Lure on Tree
 
 **What it is:**  
 A humidifier-like structure attached to a Tree of Heaven. The humidifier will spray attractive fumes and poisonous fumes/insecticides at a to-be-determined rate. Another possibility is to incorporate the poison as an artificial sap for the humidifier. The diffused scent could attract the SLFs and bait them to drink the sap and be poisoned. Grape Berry Moth Spray is another possible insecticide option.
