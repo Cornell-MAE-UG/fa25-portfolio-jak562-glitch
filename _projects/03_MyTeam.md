@@ -34,7 +34,7 @@ A humidifier-like structure attached to a Tree of Heaven. The humidifier will sp
 
 **How it would be used:**
 - Attach the humidifier-like fumigator to a Tree of Heaven, tall pole, or standardized telephone pole.
-- Diffuse Tree of Heaven scent and/or other attractive organic compounds.
+- Diffuse Tree of Heaven scent and/or other attractive compounds.
 - Release insecticide or artificial poisonous sap at a controlled rate.
 - Attract SLFs away from vineyards to the lure location where they ingest poison and are exterminated.
 
@@ -63,8 +63,6 @@ Wrap wires around a fence with decoy grape vines, placed not too close in vicini
 - Play a 60 Hz signal through the wires to mimic electric frequencies from power lines.
 - Draw SLFs to the hotspot area for extermination.
 
----
-
 ## Potential
 
 We have research on different things the SLFs are attracted to:
@@ -74,8 +72,6 @@ We have research on different things the SLFs are attracted to:
 - Drawn to their own "honeydew" (a sugary, sticky, liquid waste) excreted by other nymphs or adults already feeding  
 
 Since we have research on what SLFs are already attracted to, we can use what we know and work closely with the entomologists and research to implement them rather than starting from scratch.
-
----
 
 ## Key risks / unknowns
 
