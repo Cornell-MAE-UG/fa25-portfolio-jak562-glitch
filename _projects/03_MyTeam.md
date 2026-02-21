@@ -93,7 +93,7 @@ Since we have research on what SLFs are already attracted to, we can use what we
    *Decision affected:* Prioritization of attractant development and experimental design.
 
 2. What are different bugs that may be affected by catching spotted lanternflies and what are things we can do to prevent this?  
-   *Decision affected:* Selection of insecticide and ecological mitigation strategy.
+   *Decision affected:* Recommendation for extent of deployment.
 
 3. Would it be harmful to the grape vines to plant Trees of Heaven in a nearby vicinity?  
    *Decision affected:* Placement strategy and ecological feasibility.
