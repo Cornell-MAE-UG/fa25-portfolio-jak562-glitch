@@ -1,15 +1,7 @@
-fontsize: 11pt  
-geometry: margin=1in  
-papersize: letter  
-pagestyle: empty  
-header-includes:  
-  - \pagenumbering{gobble}  
-
----
-
 # SLF Lure Pitch
 
-**Team:** _Your Team Name_  
+**Team:** Lighthouse
+**Members:** Andy Chen, Jacob Kupperman, Allison Newman, Olivia Tigner, Marcus Pang
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
 ---
