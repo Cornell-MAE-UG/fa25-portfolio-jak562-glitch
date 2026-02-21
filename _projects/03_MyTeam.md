@@ -1,7 +1,9 @@
 # SLF Lure Pitch
 
 **Team:** Lighthouse
+
 **Members:** Andy Chen, Jacob Kupperman, Allison Newman, Olivia Tigner, Marcus Pang
+
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
 ---
