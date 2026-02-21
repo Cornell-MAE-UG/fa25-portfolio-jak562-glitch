@@ -1,3 +1,8 @@
+---
+fontsize: 11pt geometry: margin=1in papersize: letter pagestyle: empty header-includes: -
+\pagenumbering{gobble}
+---
+
 # SLF Lure Pitch
 
 **Team:** Lighthouse
