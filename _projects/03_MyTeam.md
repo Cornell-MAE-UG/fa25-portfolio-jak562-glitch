@@ -1,5 +1,5 @@
 ---
-fontsize: 11pt geometry: margin=1in papersize: letter pagestyle: empty header-includes: -
+fontsize: 11pt margin=1in papersize: letter pagestyle: empty header-includes: -
 \pagenumbering{gobble}
 ---
 
