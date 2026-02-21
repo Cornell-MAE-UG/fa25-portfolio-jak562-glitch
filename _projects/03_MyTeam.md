@@ -27,7 +27,7 @@ Spotted lantern flies have been an invasive species and have destroyed hundreds 
 
 ## Proposed direction(s)
 
-### Concept A: Decoy Lure on Tree
+### Concept: Decoy Lure on Tree
 
 **What it is:**  
 A humidifier-like structure attached to a Tree of Heaven. The humidifier will spray attractive fumes and poisonous fumes/insecticides at a to-be-determined rate. Another possibility is to incorporate the poison as an artificial sap for the humidifier. The diffused scent could attract the SLFs and bait them to drink the sap and be poisoned. Grape Berry Moth Spray is another possible insecticide option.
