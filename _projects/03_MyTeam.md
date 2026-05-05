@@ -3,8 +3,8 @@
 2. [Functional Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-jak562-glitch/blob/main/_projects/ODP%205_%20Functional%20Prototype.pdf)
 3. [Client Report](https://github.com/Cornell-MAE-UG/fa25-portfolio-jak562-glitch/blob/main/_projects/ODP%206.pdf)
 
-# SLF Lure Pitch
 <a id="Project_Pitch"></a>
+# SLF Lure Pitch
 
 **Team:** Lighthouse
 
