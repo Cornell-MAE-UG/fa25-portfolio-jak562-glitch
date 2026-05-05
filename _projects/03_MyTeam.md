@@ -1,5 +1,5 @@
 # Table of Contents
-1. Project Pitch
+1. [Project Pitch](#Project Pitch)
 2. [Functional Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-jak562-glitch/blob/main/_projects/ODP%205_%20Functional%20Prototype.pdf)
 3. [Client Report](https://github.com/Cornell-MAE-UG/fa25-portfolio-jak562-glitch/blob/main/_projects/ODP%206.pdf)
 
