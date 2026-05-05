@@ -4,6 +4,7 @@
 3. [Client Report](https://github.com/Cornell-MAE-UG/fa25-portfolio-jak562-glitch/blob/main/_projects/ODP%206.pdf)
 
 # SLF Lure Pitch
+<a id="Project Pitch"></a>
 
 **Team:** Lighthouse
 
