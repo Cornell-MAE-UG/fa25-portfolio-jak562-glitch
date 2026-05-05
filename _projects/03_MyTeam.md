@@ -1,8 +1,3 @@
----
-fontsize: 11pt margin=1in papersize: letter pagestyle: empty header-includes: -
-\pagenumbering{gobble}
----
-
 # SLF Lure Pitch
 
 **Team:** Lighthouse
@@ -67,8 +62,6 @@ A humidifier with a linkage design made to attach to any standardized telephone 
    *Decision affected:* Benchmarking performance targets and identifying gaps in current solutions.
 
 ---
-
-\newpage
 
 ## References
 
